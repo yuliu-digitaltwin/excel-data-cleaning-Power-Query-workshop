@@ -3,7 +3,7 @@
 ### 1. Download the template
 - Download `data_cleaning_template.xlsx`
 
-### Step 2: Set up the FolderPath (IMPORTANT!)
+### 2. Set up the FolderPath (IMPORTANT!)
 
 The template needs to know where your files are located.
 
