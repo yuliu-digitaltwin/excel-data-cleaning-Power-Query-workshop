@@ -1,4 +1,4 @@
-# Excel Data Cleaning Workshop
+# Excel Data Cleaning Workshop(Excel/CSV files)
 
 ## Overview
 This project provides a ready-to-use Excel Power Query template that automatically cleans messy CSV/Excel files. It removes duplicates, standardizes formats, fixes errors, and generates a cleaning log.
