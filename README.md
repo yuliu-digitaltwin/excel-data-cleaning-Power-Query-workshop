@@ -5,6 +5,8 @@ This project provides a ready-to-use Excel Power Query template that automatical
 
 This template was originally built for my own use on Upwork — handling lightweight data cleaning gigs efficiently. It's also suitable for users with basic technical skills who want to clean their own data.
 
+> 🚀 **Coming soon:** A more professional version built with **Python + pandas + SQLite** will be released soon. Stay tuned.
+
 ---
 
 ## Need Data Cleaning Services?
