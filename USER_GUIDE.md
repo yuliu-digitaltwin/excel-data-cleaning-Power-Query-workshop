@@ -45,23 +45,6 @@ D:\YourExcelDirectory\
 
 ---
 
-## Documentation
-
-| Document | Purpose |
-|----------|---------|
-| `docs/power_query_guide.md` | **End-user guide** - How to use the template |
-| `docs/cleaning_steps.md` | **Technical reference** - Each cleaning step explained |
-
----
-
-## Upwork Proposal Template
-
-Use this when bidding on data cleaning jobs:
-
-> *"I have a ready-to-use Excel Power Query template that cleans messy CSV/Excel files in one click. It removes duplicates, standardizes dates/phones/names, handles missing values, flags outliers, and generates a cleaning log. I can deliver clean, analysis-ready data within 24 hours. Demo: [GitHub Link]"*
-
----
-
 ## Keywords for Job Search
 
 - data cleaning Excel
