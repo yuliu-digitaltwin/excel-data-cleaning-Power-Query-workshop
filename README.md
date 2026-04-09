@@ -40,12 +40,8 @@ excel-data-cleaning-workshop/
 ├── raw_data_dirty.xlsx ← Sample dirty data (50 rows)
 ├── clean_data.xlsx ← Cleaned result example
 ├── cleaning_log.xlsx ← Cleaning log example
-├── data_cleaning_template.xlsx ← Power Query template
-└── docs/
-├──── cleaning_steps.md ← Technical cleaning steps
-└──── power_query_guide.md ← End-user tutorial
+└── data_cleaning_template.xlsx ← Power Query template 
 
-text
 
 ---
 
