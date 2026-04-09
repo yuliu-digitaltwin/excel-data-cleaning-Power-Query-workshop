@@ -3,7 +3,25 @@
 ## Overview
 This project provides a ready-to-use Excel Power Query template that automatically cleans messy CSV/Excel files. It removes duplicates, standardizes formats, fixes errors, and generates a cleaning log.
 
-**Perfect for:** Upwork portfolio, freelancer showcase, or internal team use.
+This template was originally built for my own use on Upwork — handling lightweight data cleaning gigs efficiently. It's also suitable for users with basic technical skills who want to clean their own data.
+
+---
+
+## Need Data Cleaning Services?
+
+Based on this template, I also take **custom data cleaning projects**. I help businesses and freelancers clean messy Excel/CSV files quickly.If your data structure is different, or you need a tailored solution, feel free to contact me.
+
+**What I offer:**
+- Remove duplicates, fix missing values, standardize formats
+- Deliver clean, analysis-ready data within 24 hours
+- Custom Power Query or Python solutions
+
+**Contact me:**
+- 📧 Email: `liuyu.digitaltwin@outlook.com`
+- 💼 Upwork: [upwork.com/freelancers/~01a0894654bb597848](https://www.upwork.com/freelancers/~01a0894654bb597848)
+- ⏱️ Response time: Within 12 hours
+
+**Or use this template for free** (see instructions in USER_GUIDE.md)
 
 ---
 
@@ -36,87 +54,15 @@ This project provides a ready-to-use Excel Power Query template that automatical
 
 ## File Structure
 excel-data-cleaning-workshop/
+
 ├── README.md ← This file
+
+├── USER_GUIDE.md ← This file
+
 ├── raw_data_dirty.xlsx ← Sample dirty data (50 rows)
+
 ├── clean_data.xlsx ← Cleaned result example
+
 ├── cleaning_log.xlsx ← Cleaning log example
+
 └── data_cleaning_template.xlsx ← Power Query template 
-
-
----
-
-## Quick Start
-
-### 1. Download the template
-- Download `data_cleaning_template.xlsx`
-
-### Step 2: Set up the FolderPath (IMPORTANT!)
-
-The template needs to know where your files are located.
-
-**What to do:**
-
-1. Click the **ConfigTable** worksheet tab (at the bottom of Excel)
-
-2. You will see this table:
-
-| Parameter | Value |
-|-----------|-------|
-| FolderPath | (empty) |
-
-3. Click on the empty cell under **Value** (cell B2)
-
-4. Enter the folder path where your files are located:
-
-   **Windows example:**
-D:\YourExcelDirectory\
-
-### 3. First-time setup (2 minutes)
-- Go to **Data** tab → Click **Queries & Connections**
-- Right-click `GetCleanData` → **Load To** → **Table** → **New worksheet** → **OK**
-- Right-click `GetCleaningLog` → **Load To** → **Table** → **New worksheet** → **OK**
-- Check `GetCleanData` and `GetCleaningLog` worksheets
-
----
-
-## Files Included
-
-| File | Description |
-|------|-------------|
-| `raw_data_dirty.xlsx` | Sample dirty data with 50 rows, 8 columns, 6 types of problems |
-| `clean_data.xlsx` | Expected output after cleaning |
-| `cleaning_log.xlsx` | Log showing what was fixed |
-| `data_cleaning_template.xlsx` | Power Query template - use this on your own data |
-
----
-
-## Documentation
-
-| Document | Purpose |
-|----------|---------|
-| `docs/power_query_guide.md` | **End-user guide** - How to use the template |
-| `docs/cleaning_steps.md` | **Technical reference** - Each cleaning step explained |
-
----
-
-## Upwork Proposal Template
-
-Use this when bidding on data cleaning jobs:
-
-> *"I have a ready-to-use Excel Power Query template that cleans messy CSV/Excel files in one click. It removes duplicates, standardizes dates/phones/names, handles missing values, flags outliers, and generates a cleaning log. I can deliver clean, analysis-ready data within 24 hours. Demo: [GitHub Link]"*
-
----
-
-## Keywords for Job Search
-
-- data cleaning Excel
-- data formatting
-- deduplicate CSV
-- clean up spreadsheet
-- Power Query data transformation
-
----
-
-## License
-
-MIT
